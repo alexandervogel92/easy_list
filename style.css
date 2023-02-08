@@ -1,0 +1,50 @@
+html{
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+body{
+    background-color: #faf3f3;
+}
+.borderTodo{
+    background-color: #2294bd93;    
+    text-align: center;
+    margin: 100px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
+
+
+.headline{
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em;
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+.inputField{
+    border-radius: 0.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+}
+.btn_add{
+    border-radius: 0.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+    background-color: green;
+}
+.btn_del{
+    border-radius: 0.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+    background-color: red;
+}
+.list{
+    padding-top: 2px;    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3em; 
+}
+
+/* #2F4F4F*/
